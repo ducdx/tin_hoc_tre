@@ -20,3 +20,22 @@
 - [Sơ Khảo 1 - Tô màu bóng](https://scratch.mit.edu/projects/1154999028/)
 - [Sơ Khảo 1 - Bàn cờ](https://scratch.mit.edu/projects/1155022284/)
 - [Sơ Khảo 1 - Mật mã](https://scratch.mit.edu/projects/1155203785/)
+
+**Ngũ Hành Sơn**
+- [Ngũ Hành Sơn - Bài 1](https://scratch.mit.edu/projects/1141955928/)
+- [Ngũ Hành Sơn - Bài 2](https://scratch.mit.edu/projects/1141959053/)
+- [Ngũ Hành Sơn - Bài 3](https://scratch.mit.edu/projects/1142092147/)
+- [Ngũ Hành Sơn - Bài 4](https://scratch.mit.edu/projects/1142105364/)
+
+**Lạng Giang**
+- [Lạng Giang - Bài 1](https://scratch.mit.edu/projects/1141874249/)
+- [Lạng Giang - Bài 4](https://scratch.mit.edu/projects/1141886941/)
+
+**Liên Chiểu**
+- [Liên Chiểu - Bài 1](https://scratch.mit.edu/projects/1141892717/)
+- [Liên Chiểu - Bài 2](https://scratch.mit.edu/projects/1141920351/)
+- [Liên Chiểu - Bài 3](https://scratch.mit.edu/projects/1141922255/)
+- [Liên Chiểu - Bài 4](https://scratch.mit.edu/projects/1141925933/)
+
+**Thanh Khê**
+- [Thanh Khê - Bài 1](https://scratch.mit.edu/projects/1141384108/)
